@@ -1,6 +1,6 @@
 # Programming Fundamentals in C Language
 
-This repository contains all my **lab tasks** and **quizzes** from the *Programming Fundamentals (PF)* course, written in **C language**.
+This repository contains all my **lab tasks** and **quizzes** from the Programming Fundamentals (PF) course, written in **C language**.
 
 ## 📂 Contents
 
